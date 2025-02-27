@@ -1,0 +1,20 @@
+public class MaxConsecutiveOnes {
+    public static int findMaxConsecutiveOnes(int[] nums) {
+        int maxCount = 0, count = 0;
+
+        for (int num : nums) {
+            if (num == 1) {  
+                count++; // Increase count if 1 is found
+                maxCount = Math.max(maxCount, count); // Update max count
+            } else {
+                count = 0; // Reset count when 0 is found
+            }
+        }
+        return maxCount;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {1, 1, 0, 1, 1, 1, 0, 1, 1}; 
+        System.out.println("Max Consecutive Ones: " + findMaxConsecutiveOnes(nums));
+    }
+}
