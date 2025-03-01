@@ -1,0 +1,9 @@
+Recursive Apporachpublic class GCD {
+    static int gcdRecursive(int a, int b) {
+        return (b == 0) ? a : gcdRecursive(b, a % b);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(gcdRecursive(48, 18)); 
+    }
+}
