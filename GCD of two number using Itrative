@@ -1,0 +1,14 @@
+public class GCD {
+    static int gcdIterative(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(gcdIterative(48, 18)); // Output: 6
+    }
+}
