@@ -1,0 +1,23 @@
+public class GCD_LCM_Array {
+    static int gcd(int a, int b) {
+        return (b == 0) ? a : gcd(b, a % b);
+    }
+
+    static int findGCD(int[] arr) {
+        int result = arr[0];
+        for (int num : arr) result = gcd(result, num);
+        return result;
+    }
+
+    static int findLCM(int[] arr) {
+        int result = arr[0];
+        for (int num : arr) result = (result * num) / gcd(result, num);
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {12, 15, 30};
+        System.out.println("GCD: " + findGCD(arr)); 
+        System.out.println("LCM: " + findLCM(arr)); 
+    }
+}
