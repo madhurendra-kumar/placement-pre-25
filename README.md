@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
