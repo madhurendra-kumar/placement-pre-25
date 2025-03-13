@@ -33,6 +33,7 @@
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3643-zero-array-transformation-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
