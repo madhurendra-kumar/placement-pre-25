@@ -66,6 +66,7 @@
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
 ## Sorting
 |  |
@@ -138,12 +139,14 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0838-design-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 ## Union Find
 |  |
 | ------- |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
