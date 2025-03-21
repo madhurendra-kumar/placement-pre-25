@@ -134,10 +134,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 ## Union Find
 |  |
 | ------- |
