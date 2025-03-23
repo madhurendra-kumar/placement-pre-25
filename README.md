@@ -141,6 +141,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
+| [0725-split-linked-list-in-parts](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
