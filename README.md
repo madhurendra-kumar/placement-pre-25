@@ -142,6 +142,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0725-split-linked-list-in-parts](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0838-design-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
@@ -177,6 +178,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
