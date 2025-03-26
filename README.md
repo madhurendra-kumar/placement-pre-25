@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -55,6 +56,7 @@
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
