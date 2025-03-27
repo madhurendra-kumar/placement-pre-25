@@ -31,6 +31,7 @@
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
+| [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 ## Depth-First Search
 |  |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
