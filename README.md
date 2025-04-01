@@ -43,6 +43,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
+| [2262-solving-questions-with-brainpower](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
