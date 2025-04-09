@@ -93,6 +93,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
@@ -193,6 +194,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0025-reverse-nodes-in-k-group) |
