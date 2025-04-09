@@ -30,6 +30,7 @@
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
@@ -293,4 +295,16 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
