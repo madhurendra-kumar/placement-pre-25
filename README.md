@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -137,6 +138,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
@@ -148,6 +150,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
