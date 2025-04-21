@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0198-house-robber) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
