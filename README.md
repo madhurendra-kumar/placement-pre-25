@@ -296,6 +296,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0232-implement-queue-using-stacks) |
@@ -312,6 +313,7 @@
 | [0110-balanced-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -378,6 +380,7 @@
 | [0110-balanced-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
@@ -392,6 +395,7 @@
 | [0110-balanced-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
