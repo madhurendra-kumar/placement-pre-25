@@ -70,6 +70,7 @@
 | [2262-solving-questions-with-brainpower](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -101,6 +102,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2690-house-robber-iv) |
@@ -194,6 +196,7 @@
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -237,6 +240,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2249-count-the-hidden-sequences) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
