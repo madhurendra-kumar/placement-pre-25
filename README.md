@@ -167,6 +167,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -188,6 +189,7 @@
 | [0125-valid-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0205-isomorphic-strings) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
