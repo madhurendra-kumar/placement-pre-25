@@ -103,6 +103,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -263,6 +264,7 @@
 | [0136-single-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
@@ -425,6 +427,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
@@ -441,6 +444,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
