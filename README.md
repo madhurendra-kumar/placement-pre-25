@@ -105,6 +105,7 @@
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -491,4 +492,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
