@@ -184,6 +184,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0290-word-pattern) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -207,6 +208,7 @@
 | [0205-isomorphic-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0290-word-pattern) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
