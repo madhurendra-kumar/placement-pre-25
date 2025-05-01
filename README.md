@@ -54,6 +54,7 @@
 | [0219-contains-duplicate-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0485-max-consecutive-ones) |
@@ -141,6 +142,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
