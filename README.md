@@ -259,6 +259,7 @@
 | [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
@@ -297,6 +298,7 @@
 | [0191-number-of-1-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
