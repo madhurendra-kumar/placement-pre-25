@@ -71,6 +71,7 @@
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
@@ -197,6 +198,7 @@
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
