@@ -76,6 +76,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
