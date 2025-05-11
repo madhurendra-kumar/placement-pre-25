@@ -161,6 +161,7 @@
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
@@ -234,6 +235,7 @@
 | [0242-valid-anagram](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0290-word-pattern) |
+| [0344-reverse-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
