@@ -211,6 +211,7 @@
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0383-ransom-note) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -238,6 +239,7 @@
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0383-ransom-note) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
@@ -266,6 +268,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
