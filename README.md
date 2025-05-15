@@ -439,6 +439,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
@@ -449,6 +450,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
@@ -517,6 +519,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -535,6 +538,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
