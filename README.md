@@ -167,6 +167,7 @@
 | [0283-move-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -248,6 +249,7 @@
 | [0383-ransom-note](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
@@ -294,6 +296,7 @@
 | [0198-house-robber](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
