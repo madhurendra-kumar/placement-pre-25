@@ -250,6 +250,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
