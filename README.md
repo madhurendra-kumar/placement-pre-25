@@ -47,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0125-valid-palindrome) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0217-contains-duplicate) |
