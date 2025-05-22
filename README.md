@@ -17,6 +17,7 @@
 | [0367-valid-perfect-square](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 ## Number Theory
@@ -267,6 +269,7 @@
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
