@@ -74,6 +74,7 @@
 | [0303-range-sum-query-immutable](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0485-max-consecutive-ones) |
@@ -206,6 +207,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0414-third-maximum-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
