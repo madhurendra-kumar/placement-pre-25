@@ -176,6 +176,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
@@ -328,6 +330,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0119-pascals-triangle-ii) |
