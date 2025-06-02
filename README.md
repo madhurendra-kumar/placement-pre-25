@@ -63,6 +63,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
+| [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0169-majority-element) |
@@ -361,6 +362,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
