@@ -49,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
+| [0031-next-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
@@ -183,6 +184,7 @@
 | [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
