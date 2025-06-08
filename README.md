@@ -520,6 +520,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -689,4 +690,8 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
