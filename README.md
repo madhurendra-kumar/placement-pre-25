@@ -23,6 +23,7 @@
 | [0492-construct-the-rectangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0492-construct-the-rectangle) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
@@ -388,6 +389,7 @@
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
