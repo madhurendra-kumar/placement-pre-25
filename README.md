@@ -328,6 +328,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -388,6 +389,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -407,6 +409,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -724,6 +727,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
