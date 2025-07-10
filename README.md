@@ -161,6 +161,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
@@ -444,6 +445,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3647-zero-array-transformation-iii) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## String Matching
 |  |
@@ -654,6 +656,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Divide and Conquer
 |  |
