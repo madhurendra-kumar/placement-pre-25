@@ -47,6 +47,7 @@
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
@@ -132,6 +133,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -256,6 +258,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
+| [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -305,6 +308,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -631,6 +635,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0023-merge-k-sorted-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
