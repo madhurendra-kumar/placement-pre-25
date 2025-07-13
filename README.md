@@ -61,6 +61,7 @@
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0119-pascals-triangle-ii) |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
