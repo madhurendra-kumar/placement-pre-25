@@ -62,6 +62,7 @@
 | [0001-two-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
@@ -223,6 +224,7 @@
 | [0005-longest-palindromic-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0056-merge-intervals) |
