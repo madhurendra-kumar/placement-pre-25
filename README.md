@@ -70,6 +70,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
@@ -703,6 +704,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
