@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0415-add-strings) |
@@ -75,6 +76,7 @@
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
@@ -221,6 +223,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
