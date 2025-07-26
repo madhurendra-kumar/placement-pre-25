@@ -9,6 +9,7 @@
 | [0029-divide-two-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0171-excel-sheet-column-number) |
@@ -579,6 +580,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
