@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0168-excel-sheet-column-title) |
@@ -42,6 +43,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0415-add-strings) |
@@ -357,6 +359,7 @@
 | [0012-integer-to-roman](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0125-valid-palindrome) |
