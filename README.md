@@ -139,6 +139,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -546,6 +547,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2478-longest-nice-subarray) |
@@ -719,6 +721,7 @@
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -730,6 +733,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
