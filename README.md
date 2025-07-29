@@ -109,6 +109,7 @@
 | [0495-teemo-attacking](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
@@ -285,6 +286,7 @@
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -711,6 +713,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
