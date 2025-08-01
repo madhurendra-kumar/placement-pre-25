@@ -85,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
@@ -470,6 +471,7 @@
 | [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0152-maximum-product-subarray) |
