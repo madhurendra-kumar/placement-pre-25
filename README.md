@@ -112,6 +112,7 @@
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
@@ -291,6 +292,7 @@
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -505,6 +507,7 @@
 | [0045-jump-game-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -880,4 +883,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
