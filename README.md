@@ -167,6 +167,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2665-minimum-time-to-repair-cars) |
+| [2689-rearranging-fruits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2689-rearranging-fruits) |
 | [2690-house-robber-iv](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -307,6 +308,7 @@
 | [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2689-rearranging-fruits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
@@ -362,6 +364,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -522,6 +525,7 @@
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2689-rearranging-fruits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
