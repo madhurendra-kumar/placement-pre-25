@@ -25,6 +25,7 @@
 | [0415-add-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0492-construct-the-rectangle) |
+| [0598-range-addition-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -116,6 +117,7 @@
 | [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0598-range-addition-ii) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
