@@ -409,6 +409,7 @@
 | [0459-repeated-substring-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
