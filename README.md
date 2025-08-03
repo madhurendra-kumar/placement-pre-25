@@ -118,6 +118,7 @@
 | [0566-reshape-the-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -520,6 +521,7 @@
 | [0135-candy](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
