@@ -866,6 +866,7 @@
 | [0595-big-countries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0610-triangle-judgement) |
 | [1258-article-views-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1258-article-views-i) |
 | [1415-students-and-examinations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
