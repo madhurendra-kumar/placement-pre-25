@@ -209,6 +209,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -924,6 +926,7 @@
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -932,4 +935,5 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
