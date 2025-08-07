@@ -125,6 +125,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -320,6 +321,7 @@
 | [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -374,6 +376,7 @@
 | [0575-distribute-candies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -603,6 +606,7 @@
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
