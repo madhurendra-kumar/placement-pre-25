@@ -129,6 +129,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
