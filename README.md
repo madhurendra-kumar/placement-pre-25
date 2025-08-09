@@ -14,6 +14,7 @@
 | [0168-excel-sheet-column-title](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
@@ -608,6 +609,7 @@
 | [0191-number-of-1-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
@@ -665,6 +667,7 @@
 | [0050-powx-n](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
