@@ -297,6 +297,7 @@
 | [0344-reverse-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
@@ -449,6 +450,7 @@
 | [0482-license-key-formatting](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
