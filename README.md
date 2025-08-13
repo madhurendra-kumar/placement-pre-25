@@ -301,6 +301,7 @@
 | [0541-reverse-string-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0696-count-binary-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -456,6 +457,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
