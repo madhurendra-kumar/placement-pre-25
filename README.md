@@ -135,6 +135,7 @@
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -392,6 +393,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
