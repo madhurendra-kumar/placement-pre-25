@@ -139,6 +139,7 @@
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
@@ -396,6 +397,7 @@
 | [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
+| [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -674,6 +676,7 @@
 | [0328-odd-even-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0838-design-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
@@ -715,6 +718,7 @@
 | [0225-implement-stack-using-queues](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -985,6 +989,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Segment Tree
 |  |
