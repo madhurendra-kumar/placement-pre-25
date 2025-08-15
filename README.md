@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -631,6 +632,7 @@
 | [0231-power-of-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0461-hamming-distance) |
@@ -692,6 +694,7 @@
 | [0231-power-of-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
