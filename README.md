@@ -30,6 +30,7 @@
 | [0492-construct-the-rectangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0492-construct-the-rectangle) |
 | [0598-range-addition-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0628-maximum-product-of-three-numbers) |
+| [0679-24-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
@@ -137,6 +138,7 @@
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0679-24-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
@@ -838,6 +840,7 @@
 | [0046-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
+| [0679-24-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
