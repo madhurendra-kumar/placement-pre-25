@@ -216,6 +216,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
