@@ -144,6 +144,7 @@
 | [0679-24-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
+| [0724-find-pivot-index](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
@@ -639,6 +640,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0724-find-pivot-index) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2394-count-subarrays-with-score-less-than-k) |
