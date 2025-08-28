@@ -152,6 +152,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
+| [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
@@ -298,6 +299,7 @@
 | [0566-reshape-the-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
+| [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
