@@ -434,6 +434,7 @@
 | [0697-degree-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
@@ -503,6 +504,7 @@
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
+| [0782-jewels-and-stones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
