@@ -823,6 +823,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -842,6 +843,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -944,6 +946,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -973,6 +976,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -983,6 +987,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Merge Sort
 |  |
 | ------- |
