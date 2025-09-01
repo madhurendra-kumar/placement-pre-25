@@ -35,6 +35,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -160,6 +161,7 @@
 | [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
@@ -1089,4 +1091,8 @@
 | ------- |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
