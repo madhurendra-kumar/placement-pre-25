@@ -162,6 +162,7 @@
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
+| [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
@@ -447,6 +448,7 @@
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -518,6 +520,7 @@
 | [0812-rotate-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0824-number-of-lines-to-write-string) |
+| [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -574,6 +577,7 @@
 | [0383-ransom-note](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1510-find-lucky-integer-in-an-array) |
