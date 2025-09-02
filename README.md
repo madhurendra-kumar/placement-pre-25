@@ -50,6 +50,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -233,6 +234,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -397,6 +399,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -926,6 +929,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3201-distribute-candies-among-children-ii) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1099,4 +1103,5 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
