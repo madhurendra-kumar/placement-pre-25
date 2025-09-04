@@ -532,6 +532,7 @@
 | [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0851-goat-latin) |
+| [0857-positions-of-large-groups](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1302-delete-characters-to-make-fancy-string) |
