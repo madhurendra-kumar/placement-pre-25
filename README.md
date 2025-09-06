@@ -73,6 +73,7 @@
 | [0566-reshape-the-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -168,6 +169,7 @@
 | [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
@@ -317,6 +319,7 @@
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
+| [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
@@ -358,6 +361,7 @@
 | [0696-count-binary-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0696-count-binary-substrings) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0841-shortest-distance-to-a-character) |
+| [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -719,6 +723,7 @@
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
