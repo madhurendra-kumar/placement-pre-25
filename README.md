@@ -36,6 +36,7 @@
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0866-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1127,6 +1128,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0830-largest-triangle-area) |
+| [0866-rectangle-overlap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0866-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
