@@ -417,6 +417,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2689-rearranging-fruits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -563,6 +564,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2887-sort-vowels-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3243-count-the-number-of-powerful-integers) |
