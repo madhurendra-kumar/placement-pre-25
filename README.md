@@ -58,6 +58,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3637-count-number-of-balanced-permutations) |
@@ -571,6 +572,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3617-find-the-original-typed-string-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3637-count-number-of-balanced-permutations) |
@@ -1093,10 +1095,12 @@
 | [0292-nim-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
