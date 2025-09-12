@@ -79,6 +79,7 @@
 | [0657-robot-return-to-origin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -373,6 +374,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -553,6 +555,7 @@
 | [0851-goat-latin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0857-positions-of-large-groups) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
+| [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0889-buddy-strings) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -851,6 +854,7 @@
 | [0496-next-greater-element-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1818-maximum-score-from-removing-substrings) |
