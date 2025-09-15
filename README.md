@@ -486,6 +486,7 @@
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1813-maximum-erasure-value) |
@@ -565,6 +566,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
