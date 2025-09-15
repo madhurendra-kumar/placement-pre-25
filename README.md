@@ -758,6 +758,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
+| [0899-binary-gap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
