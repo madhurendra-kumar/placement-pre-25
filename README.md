@@ -49,6 +49,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 ## Array
 |  |
@@ -222,6 +224,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -872,6 +875,7 @@
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 | [1628-count-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
