@@ -184,6 +184,7 @@
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [0919-projection-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0919-projection-area-of-3d-shapes) |
+| [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
@@ -305,6 +306,7 @@
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -414,6 +416,7 @@
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
+| [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -486,6 +489,7 @@
 | [0889-buddy-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
