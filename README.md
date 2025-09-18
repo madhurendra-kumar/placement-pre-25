@@ -187,6 +187,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0919-projection-area-of-3d-shapes) |
 | [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0928-surface-area-of-3d-shapes) |
+| [0932-monotonic-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
