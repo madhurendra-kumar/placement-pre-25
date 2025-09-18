@@ -515,6 +515,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -860,6 +861,7 @@
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
 ## Topological Sort
 |  |
 | ------- |
@@ -971,6 +973,7 @@
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
 ## Backtracking
 |  |
 | ------- |
@@ -1166,6 +1169,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
