@@ -399,6 +399,7 @@
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0953-reverse-only-letters) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -598,6 +599,7 @@
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0889-buddy-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0953-reverse-only-letters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0953-reverse-only-letters) |
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1264-maximum-number-of-words-you-can-type) |
