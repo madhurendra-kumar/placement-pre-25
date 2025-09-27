@@ -1,29 +1,34 @@
 class Solution {
+    public double largestTriangleArea(int[][] points) {
+        // step 1 - store maximum area in `maxArea`
+        double maxArea = 0.0;
 
-    static double helper(int arr1[], int arr2[], int arr3[]){
-        double x1 = (double)arr1[0];
-        double y1 = (double)arr1[1];
+        // step 2 - generate all possible combinations of 3 points using three nested loops
+        int n = points.length;
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = i + 1; j < n - 1; j++) {
+                for (int k = j + 1; k < n; k++) {
+                    // extract points
+                    int x1 = points[i][0];
+                    int x2 = points[j][0];
+                    int y1 = points[i][1];
+                    int y2 = points[j][1];
+                    int x3 = points[k][0];
+                    int y3 = points[k][1];
 
-        double x2 = (double)arr2[0];
-        double y2 = (double)arr2[1];
+                    // step 3 - calculate area using cross product formula
+                    // formula: Area = 0.5 * |x1(y2-y3) + x2(y3-y1) + x3(y1-y2)|
+                    double area = 0.5 * Math.abs(
+                            x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)
+                        );
 
-        double x3 = (double)arr3[0];
-        double y3 = (double)arr3[1];
-
-        return Math.abs((x1*(y2-y3) + x2*(y3-y1) + x3*(y1-y2)))/2;
-    }
-    public double largestTriangleArea(int[][] arr) {
-        
-
-        double ans = 0;
-
-        for(int i=0; i<arr.length; i++){
-            for(int j=i+1; j<arr.length; j++){
-                for(int k=j+1; k<arr.length; k++){
-                    ans = Math.max(ans,helper(arr[i],arr[j],arr[k]));
+                    // step 4 - update maximum area
+                    maxArea = Math.max(maxArea, area);
                 }
             }
         }
-        return ans;
+
+        // step 5 - return maximum area of triangle
+        return maxArea;
     }
 }
