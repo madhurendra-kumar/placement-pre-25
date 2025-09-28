@@ -200,6 +200,7 @@
 | [0944-smallest-range-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0944-smallest-range-i) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
@@ -406,6 +407,7 @@
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0958-sort-array-by-parity-ii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -442,6 +444,7 @@
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
