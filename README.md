@@ -51,6 +51,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -88,6 +89,7 @@
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2324-find-triangular-sum-of-an-array) |
