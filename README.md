@@ -973,6 +973,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -1108,6 +1109,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1139,6 +1141,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -1151,6 +1154,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 ## Merge Sort
 |  |
 | ------- |
