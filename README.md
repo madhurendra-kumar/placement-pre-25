@@ -152,6 +152,7 @@
 | [0303-range-sum-query-immutable](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -359,6 +360,7 @@
 | [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
@@ -988,6 +990,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1026,6 +1029,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1917-maximum-average-pass-ratio) |
