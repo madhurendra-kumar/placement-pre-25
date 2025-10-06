@@ -187,6 +187,7 @@
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0816-design-hashset) |
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
@@ -333,6 +334,7 @@
 | [0611-valid-triangle-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
@@ -368,6 +370,7 @@
 | [0661-image-smoother](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [0919-projection-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0919-projection-area-of-3d-shapes) |
@@ -894,6 +897,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
@@ -976,6 +980,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
@@ -1000,6 +1005,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1035,6 +1041,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0506-relative-ranks) |
+| [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2429-design-a-food-rating-system) |
