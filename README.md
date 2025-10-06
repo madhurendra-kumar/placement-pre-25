@@ -213,6 +213,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0965-unique-email-addresses) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
+| [0978-valid-mountain-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0978-valid-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
