@@ -45,6 +45,7 @@
 | [0944-smallest-range-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
+| [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -218,6 +219,7 @@
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1019-squares-of-a-sorted-array) |
+| [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
