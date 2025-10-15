@@ -92,6 +92,7 @@
 | [0861-flipping-an-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -222,6 +223,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1039-find-the-town-judge) |
+| [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -396,6 +398,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0928-surface-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
+| [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
