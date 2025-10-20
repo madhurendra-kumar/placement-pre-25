@@ -95,6 +95,7 @@
 | [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -251,6 +252,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -673,6 +675,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2260-divide-a-string-into-groups-of-size-k) |
