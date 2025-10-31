@@ -46,6 +46,7 @@
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
+| [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -786,6 +787,7 @@
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
+| [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1303,6 +1305,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
@@ -1310,6 +1313,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [3462-vowels-game-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
