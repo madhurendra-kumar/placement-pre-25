@@ -355,6 +355,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -633,6 +634,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -999,6 +1001,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -1011,6 +1014,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Design
 |  |
 | ------- |
@@ -1093,6 +1097,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1118,6 +1123,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1161,6 +1167,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -1377,6 +1384,7 @@
 | [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
