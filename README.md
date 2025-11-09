@@ -47,6 +47,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
+| [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -97,6 +98,7 @@
 | [0874-backspace-string-compare](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
+| [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
