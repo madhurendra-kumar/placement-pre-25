@@ -680,6 +680,7 @@
 | [0482-license-key-formatting](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0557-reverse-words-in-a-string-iii) |
