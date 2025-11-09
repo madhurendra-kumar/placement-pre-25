@@ -1325,6 +1325,7 @@
 | [1174-sales-analysis-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1801-average-time-of-process-per-machine](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1801-average-time-of-process-per-machine) |
