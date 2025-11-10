@@ -239,6 +239,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -610,6 +611,7 @@
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1039-find-the-town-judge) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -710,6 +712,7 @@
 | [1006-vowel-spellchecker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1078-remove-outermost-parentheses) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
@@ -785,6 +788,7 @@
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1986-largest-color-value-in-a-directed-graph) |
