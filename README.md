@@ -242,6 +242,7 @@
 | [1127-last-stone-weight](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
