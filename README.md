@@ -172,6 +172,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0474-ones-and-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0496-next-greater-element-i) |
@@ -683,6 +684,7 @@
 | [0415-add-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0520-detect-capital) |
@@ -819,6 +821,7 @@
 | [0368-largest-divisible-subset](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
