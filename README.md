@@ -145,6 +145,7 @@
 | [0057-insert-interval](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
@@ -377,6 +378,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
@@ -425,6 +427,7 @@
 | [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0498-diagonal-traverse) |
