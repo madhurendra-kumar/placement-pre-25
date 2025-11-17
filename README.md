@@ -1229,6 +1229,7 @@
 | [0039-combination-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0698-partition-to-k-equal-sum-subsets) |
