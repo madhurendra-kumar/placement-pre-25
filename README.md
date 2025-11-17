@@ -674,6 +674,7 @@
 | [0038-count-and-say](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0165-compare-version-numbers) |
@@ -1087,6 +1088,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0144-binary-tree-preorder-traversal) |
