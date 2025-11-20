@@ -87,6 +87,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0415-add-strings) |
@@ -144,6 +145,7 @@
 | [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
@@ -430,6 +432,7 @@
 | [0037-sudoku-solver](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
