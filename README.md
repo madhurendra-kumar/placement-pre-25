@@ -206,6 +206,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
+| [0759-set-intersection-size-at-least-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0759-set-intersection-size-at-least-two) |
 | [0777-toeplitz-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0777-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
@@ -532,6 +533,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0759-set-intersection-size-at-least-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0924-fair-candy-swap](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0941-sort-array-by-parity) |
@@ -891,6 +893,7 @@
 | [0561-array-partition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0611-valid-triangle-number) |
+| [0759-set-intersection-size-at-least-two](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0759-set-intersection-size-at-least-two) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0890-lemonade-change) |
