@@ -48,6 +48,7 @@
 | [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -253,6 +254,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1137-height-checker) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
@@ -914,6 +916,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
