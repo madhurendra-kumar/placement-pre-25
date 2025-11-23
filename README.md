@@ -47,6 +47,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
+| [1175-prime-arrangements](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1175-prime-arrangements) |
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
