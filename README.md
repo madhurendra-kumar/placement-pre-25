@@ -1416,6 +1416,7 @@
 | [1174-sales-analysis-iii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1179-game-play-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1258-article-views-i) |
 | [1301-reformat-department-table](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1301-reformat-department-table) |
 | [1415-students-and-examinations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1415-students-and-examinations) |
