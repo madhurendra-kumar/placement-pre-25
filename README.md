@@ -157,6 +157,7 @@
 | [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -403,6 +404,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0268-missing-number) |
