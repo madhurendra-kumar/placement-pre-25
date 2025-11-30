@@ -277,6 +277,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-design-browser-history](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1628-count-submatrices-with-all-ones) |
@@ -657,6 +658,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1319-unique-number-of-occurrences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -975,6 +977,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0724-find-pivot-index) |
+| [1590-make-sum-divisible-by-p](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2249-count-the-hidden-sequences) |
