@@ -52,6 +52,7 @@
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -107,6 +108,7 @@
 | [0898-transpose-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -263,6 +265,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
