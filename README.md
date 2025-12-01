@@ -295,6 +295,7 @@
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -425,6 +426,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -572,6 +574,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
@@ -948,6 +951,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1917-maximum-average-pass-ratio) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2245-destroying-asteroids](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2245-destroying-asteroids) |
