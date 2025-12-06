@@ -112,6 +112,7 @@
 | [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -270,6 +271,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
@@ -483,6 +485,7 @@
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1041-available-captures-for-rook) |
+| [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
