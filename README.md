@@ -373,6 +373,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -844,6 +845,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -929,6 +931,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1010,6 +1013,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3639-zero-array-transformation-i) |
@@ -1074,6 +1078,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Linked List
 |  |
 | ------- |
@@ -1456,6 +1461,7 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Interactive
 |  |
 | ------- |
