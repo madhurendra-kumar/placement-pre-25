@@ -63,6 +63,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -1328,6 +1329,7 @@
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
+| [1925-count-square-sum-triples](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2202-sum-of-k-mirror-numbers) |
