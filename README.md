@@ -279,6 +279,7 @@
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1306-minimum-absolute-difference) |
+| [1313-decompress-run-length-encoded-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
