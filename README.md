@@ -276,6 +276,7 @@
 | [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1306-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1306-minimum-absolute-difference) |
