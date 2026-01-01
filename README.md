@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0168-excel-sheet-column-title) |
@@ -169,6 +170,7 @@
 | [0059-spiral-matrix-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
