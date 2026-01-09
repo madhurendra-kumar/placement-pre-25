@@ -695,6 +695,7 @@
 | [0822-unique-morse-code-words](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0889-buddy-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1270,6 +1271,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1302,6 +1304,7 @@
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1035-cousins-in-binary-tree) |
@@ -1436,6 +1439,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1473,6 +1477,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
