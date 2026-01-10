@@ -56,6 +56,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1106,6 +1107,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1054-complement-of-base-10-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1054-complement-of-base-10-integer) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
