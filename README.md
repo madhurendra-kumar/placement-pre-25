@@ -801,6 +801,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0768-partition-labels) |
@@ -946,6 +947,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0474-ones-and-zeroes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0868-push-dominoes) |
