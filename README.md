@@ -56,6 +56,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-day-of-the-year) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1266-minimum-time-visiting-all-points) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -287,6 +288,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-distance-between-bus-stops) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1293-three-consecutive-odds) |
@@ -1614,6 +1616,7 @@
 | [0919-projection-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0919-projection-area-of-3d-shapes) |
 | [0928-surface-area-of-3d-shapes](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0928-surface-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3623-count-number-of-trapezoids-i) |
