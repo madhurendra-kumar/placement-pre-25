@@ -284,6 +284,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1127-last-stone-weight](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -627,6 +628,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1137-height-checker](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1137-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1306-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
