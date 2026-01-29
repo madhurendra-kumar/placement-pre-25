@@ -376,6 +376,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3001-apply-operations-to-maximize-score) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -870,6 +871,7 @@
 | [2429-design-a-food-rating-system](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -1349,6 +1351,7 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Doubly-Linked List
 |  |
@@ -1655,4 +1658,8 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
