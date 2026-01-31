@@ -234,6 +234,7 @@
 | [0724-find-pivot-index](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0749-shortest-completing-word) |
@@ -470,6 +471,7 @@
 | [0441-arranging-coins](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0794-swim-in-rising-water) |
