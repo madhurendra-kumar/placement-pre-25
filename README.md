@@ -777,6 +777,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3678-design-task-manager) |
+| [3713-longest-balanced-substring-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3797-design-spreadsheet) |
@@ -893,6 +894,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3637-count-number-of-balanced-permutations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3797-design-spreadsheet](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3797-design-spreadsheet) |
@@ -958,6 +960,7 @@
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3583-count-special-triplets) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -1447,6 +1450,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3713-longest-balanced-substring-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3713-longest-balanced-substring-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
