@@ -125,6 +125,7 @@
 | [1195-distribute-candies-to-people](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1195-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1260-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -865,6 +866,7 @@
 | [1332-remove-palindromic-subsequences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1332-remove-palindromic-subsequences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1222,6 +1224,7 @@
 | [0234-palindrome-linked-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
