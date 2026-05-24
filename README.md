@@ -306,6 +306,7 @@
 | [1313-decompress-run-length-encoded-list](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1313-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1340-jump-game-v](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1340-jump-game-v) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1390-four-divisors) |
@@ -646,6 +647,7 @@
 | [1200-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-minimum-absolute-difference](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1306-minimum-absolute-difference) |
+| [1340-jump-game-v](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1012,6 +1014,7 @@
 | [1086-divisor-game](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/madhurendra-kumar/placement-pre-25/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
